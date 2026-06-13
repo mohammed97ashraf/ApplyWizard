@@ -1,46 +1,43 @@
-# Contributing to ApplyWizard
+# Contributing to ApplyWizard 🚀
 
-We love your input! We want to make contributing as easy and transparent as possible, whether it's:
+We love your input! We want to make contributing to this project as easy and transparent as possible.
 
-- Reporting a bug
-- Discussing the current state of the code
-- Submitting a fix
-- Proposing new features
-- Becoming a maintainer
+## Code of Conduct
 
-## We Develop with GitHub
+By participating, you are expected to uphold this code. Please report unacceptable behavior to [mohammed97ashraf@example.com](mailto:mohammed97ashraf@example.com).
 
-We use GitHub to host code, to track issues and feature requests, as well as accept pull requests.
+## How to Contribute
 
-## We Use [Github Flow](https://guides.github.com/introduction/flow/index.html)
+1. **Fork the repository** to your GitHub account.
+2. **Create a new branch** for your feature or fix: `git checkout -b feature/your-feature-name`.
+3. **Make your changes** and test them thoroughly.
+4. **Commit your changes** with a clear message: `git commit -m "Add: brief description of changes"`.
+5. **Push to your fork**: `git push origin feature/your-feature-name`.
+6. **Open a Pull Request** against the `main` branch.
 
-All code changes happen through pull requests. Pull requests are the best way to propose changes to the codebase. We actively welcome your pull requests.
+## Pull Request Guidelines
 
-## Report bugs using Github's [issues](https://github.com/mohammed97ashraf/ApplyWizard/issues)
+- Ensure any install or build dependencies are removed before the end of the layer.
+- Update the README.md with details of changes to the interface, if applicable.
+- Increase the version number in any examples files and the README.md to the new version that this Pull Request would represent.
+- The PR should work for Python 3.9+.
+- Include tests for new features or bug fixes in the `tests/` directory.
 
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/mohammed97ashraf/ApplyWizard/issues/new).
+## Development Setup
 
-## Write bug reports with detail, background, and sample code
+1. Clone your fork: `git clone https://github.com/your-username/ApplyWizard.git`
+2. Create a virtual environment: `python -m venv venv`
+3. Install dev dependencies: `pip install -r requirements-dev.txt` (create if needed)
+4. Set up environment variables as described in README.md.
 
-**Great Bug Reports** tend to have:
+## Reporting Issues
 
-- A quick summary and/or background
-- Steps to reproduce
-- What you expected would happen
-- What actually happens
-- Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
+If you find a bug or have a feature request, please open an issue with:
+- A clear title and description.
+- Steps to reproduce the issue.
+- Expected vs actual behavior.
+- Screenshots (if applicable).
 
-## Use a Consistent Coding Style
+## Thank You!
 
-* Use 4 spaces for indentation (not tabs)
-* Use meaningful variable names
-* Write docstrings for functions and classes
-* Follow PEP 8 guidelines
-
-## License
-
-By contributing, you agree that your contributions will be licensed under its MIT License.
-
-## References
-
-This document was adapted from the open-source contribution guidelines for [Facebook's Draft](https://github.com/facebook/draft-js/blob/main/CONTRIBUTING.md).
+Your contributions help make job applications easier for everyone. Happy coding!
